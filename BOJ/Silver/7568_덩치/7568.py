@@ -17,3 +17,4 @@ for i in range(n):
         if weight > target_wei and key > target_key:
             rank += 1
     print(rank, end=" ")
+
