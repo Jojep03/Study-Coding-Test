@@ -4,7 +4,6 @@
 
 https://www.acmicpc.net/problem/7662
 
----
 
 ## 문제 설명
 
@@ -16,7 +15,6 @@ https://www.acmicpc.net/problem/7662
 | `D 1` | 최댓값 삭제 |
 | `D -1` | 최솟값 삭제 |
 
----
 
 ## 사용 알고리즘
 
@@ -25,7 +23,6 @@ https://www.acmicpc.net/problem/7662
 - Lazy Deletion
 - `heapq`
 
----
 
 ## 핵심 아이디어
 
