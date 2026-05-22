@@ -7,6 +7,7 @@ right = []
 n = int(input())
 for _ in range(n):
     cmd = input().split()
+
     if cmd[0] == "L":
         if left:
             right.append(left.pop())
@@ -18,6 +19,4 @@ for _ in range(n):
             left.pop()
     elif cmd[0] == "P":
         left.append(cmd[1])
-print(left)
-print(right)
-print(''.join(left + right[::-1]))
+print(''.join(left+right[::-1]))
