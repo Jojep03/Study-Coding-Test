@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="89bcb092-5bfd-4b10-93d2-feec2dd299a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BOJ/Silver/10866_덱/10866_복습.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3Anbw9DrZL9DYECeKpIu1sOjwr7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1021.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1021_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10431.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10866.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11000.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11000_v2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11000_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11279.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11279_최대힙.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11286.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11286_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1138.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1138_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1157.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1158.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1158_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11723.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11866.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11866_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1205.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1244.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1260.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1260_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1300.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13305.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13975.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13975_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1406_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1417.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1417_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14940.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1515.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1654.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1654_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1715.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1715_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17266.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17266_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1927.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1931.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1931_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1966.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1966_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2075.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20922.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2110.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2110_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2164.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2346.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2346_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2512.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2512_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25757.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25757_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2805.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3079_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3190.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4659.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5397_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5430.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5430_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6236.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7568.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7662.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8979.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9093_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9655.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9655_복습.executor&quot;: &quot;Run&quot;,
+    &quot;Python.crop_test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.organize_to_excel.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jose1/pycharmproject/Study-Coding-Test&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jose1\pycharmproject\Study-Coding-Test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.1715_복습">
+    <configuration name="13975_복습" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Study-Coding-Test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/Gold/13975_파일합치기3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/Gold/13975_파일합치기3/13975_복습.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1715_복습" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Study-Coding-Test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/Gold/1715_카드정렬하기" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/Gold/1715_카드정렬하기/1715_복습.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1966_복습" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Study-Coding-Test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/Silver/1966_프린터큐" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/Silver/1966_프린터큐/1966_복습.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2346_복습" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Study-Coding-Test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/Silver/2346_풍선터뜨리기" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/Silver/2346_풍선터뜨리기/2346_복습.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2512_복습" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Study-Coding-Test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BOJ/Silver/2512_예산" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BOJ/Silver/2512_예산/2512_복습.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Study-Coding-Test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Study-Coding-Test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.1715_복습" />
+        <item itemvalue="Python.13975_복습" />
+        <item itemvalue="Python.1966_복습" />
+        <item itemvalue="Python.2346_복습" />
+        <item itemvalue="Python.2512_복습" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.19072.16" />
+        <option value="bundled-python-sdk-8336bb23522e-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.19072.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89bcb092-5bfd-4b10-93d2-feec2dd299a9" name="Changes" comment="" />
+      <created>1773231517717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773231517717</updated>
+      <workItem from="1773231519084" duration="5000" />
+      <workItem from="1773312331711" duration="4869000" />
+      <workItem from="1773398493846" duration="1916000" />
+      <workItem from="1773460933561" duration="408000" />
+      <workItem from="1773487118216" duration="2799000" />
+      <workItem from="1773659839865" duration="6407000" />
+      <workItem from="1773752472483" duration="1742000" />
+      <workItem from="1773829624765" duration="2796000" />
+      <workItem from="1773915624223" duration="4782000" />
+      <workItem from="1774003398173" duration="2723000" />
+      <workItem from="1774082066957" duration="6000" />
+      <workItem from="1774098059959" duration="3407000" />
+      <workItem from="1774180583558" duration="3830000" />
+      <workItem from="1774866109045" duration="3117000" />
+      <workItem from="1774958386182" duration="1083000" />
+      <workItem from="1775043818382" duration="615000" />
+      <workItem from="1775135297016" duration="1777000" />
+      <workItem from="1775137154298" duration="61000" />
+      <workItem from="1775262727030" duration="12000" />
+      <workItem from="1775388056342" duration="2830000" />
+      <workItem from="1775481030744" duration="2270000" />
+      <workItem from="1775567069145" duration="1405000" />
+      <workItem from="1775644106054" duration="4766000" />
+      <workItem from="1775738573280" duration="2127000" />
+      <workItem from="1775816545153" duration="3268000" />
+      <workItem from="1775895177953" duration="908000" />
+      <workItem from="1775907467218" duration="4011000" />
+      <workItem from="1775987053491" duration="1333000" />
+      <workItem from="1775988523281" duration="5018000" />
+      <workItem from="1775994722826" duration="66000" />
+      <workItem from="1776082175033" duration="3404000" />
+      <workItem from="1776252685145" duration="2811000" />
+      <workItem from="1776255623363" duration="3000" />
+      <workItem from="1776334734586" duration="291000" />
+      <workItem from="1776335129523" duration="2333000" />
+      <workItem from="1776514076759" duration="361000" />
+      <workItem from="1776514495059" duration="267000" />
+      <workItem from="1776594773525" duration="2458000" />
+      <workItem from="1776597975836" duration="3971000" />
+      <workItem from="1776680790973" duration="4628000" />
+      <workItem from="1776773683103" duration="1218000" />
+      <workItem from="1776858388648" duration="2990000" />
+      <workItem from="1776938669448" duration="5266000" />
+      <workItem from="1777027019591" duration="2881000" />
+      <workItem from="1777119795314" duration="1295000" />
+      <workItem from="1777202606486" duration="1854000" />
+      <workItem from="1777284159462" duration="2447000" />
+      <workItem from="1777373251493" duration="2048000" />
+      <workItem from="1777460496468" duration="1605000" />
+      <workItem from="1777555367796" duration="250000" />
+      <workItem from="1777633915752" duration="3689000" />
+      <workItem from="1777719984828" duration="817000" />
+      <workItem from="1777721081649" duration="2657000" />
+      <workItem from="1777772888572" duration="5000" />
+      <workItem from="1777791722386" duration="2533000" />
+      <workItem from="1777794354966" duration="14000" />
+      <workItem from="1777985545097" duration="1931000" />
+      <workItem from="1778064164487" duration="3058000" />
+      <workItem from="1778150296565" duration="4247000" />
+      <workItem from="1778245143557" duration="534000" />
+      <workItem from="1778245754360" duration="630000" />
+      <workItem from="1778313346806" duration="3724000" />
+      <workItem from="1778398619498" duration="1678000" />
+      <workItem from="1778596313224" duration="1056000" />
+      <workItem from="1778674336908" duration="1773000" />
+      <workItem from="1778754291280" duration="881000" />
+      <workItem from="1778755305068" duration="1952000" />
+      <workItem from="1778841322832" duration="2065000" />
+      <workItem from="1778919205517" duration="824000" />
+      <workItem from="1779019478254" duration="2098000" />
+      <workItem from="1779101432343" duration="1077000" />
+      <workItem from="1779185271177" duration="906000" />
+      <workItem from="1779446647346" duration="745000" />
+      <workItem from="1779447731046" duration="575000" />
+      <workItem from="1779532657954" duration="529000" />
+      <workItem from="1779622460273" duration="954000" />
+      <workItem from="1779706170527" duration="2325000" />
+      <workItem from="1779799361124" duration="1046000" />
+      <workItem from="1779878487716" duration="305000" />
+      <workItem from="1779964336488" duration="894000" />
+      <workItem from="1780059911278" duration="2055000" />
+      <workItem from="1780139589199" duration="888000" />
+      <workItem from="1780222685934" duration="1252000" />
+      <workItem from="1780315521599" duration="683000" />
+      <workItem from="1780410619152" duration="679000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$13305.coverage" NAME="13305 Coverage Results" MODIFIED="1773753922354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/13305_주유소" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$11000_v2.coverage" NAME="11000_v2 Coverage Results" MODIFIED="1777636904140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Gold/11000_강의실배정" />
+    <SUITE FILE_PATH="coverage/9093_py$1138_.coverage" NAME="1138_복습 Coverage Results" MODIFIED="1779186045491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1138_한 줄로 서기" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$5430.coverage" NAME="5430 Coverage Results" MODIFIED="1776684104566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Gold/5430_AC" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$1157.coverage" NAME="1157 Coverage Results" MODIFIED="1774184204678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Bronze/1157_단어공부" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$1966.coverage" NAME="1966 Coverage Results" MODIFIED="1776596223579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1966_프린터큐" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$1715.coverage" NAME="1715 Coverage Results" MODIFIED="1777461411402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Gold/1715_카드정렬하기" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$11286.coverage" NAME="11286 Coverage Results" MODIFIED="1777285810932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/11286_절댓값힙" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$20922.coverage" NAME="20922 Coverage Results" MODIFIED="1778319604665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/20922_겹치는건싫엉" />
+    <SUITE FILE_PATH="coverage/11279_py$13975_.coverage" NAME="13975_복습 Coverage Results" MODIFIED="1780223418755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Gold/13975_파일합치기3" />
+    <SUITE FILE_PATH="coverage/11279_py$1715_.coverage" NAME="1715_복습 Coverage Results" MODIFIED="1780316156178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Gold/1715_카드정렬하기" />
+    <SUITE FILE_PATH="coverage/11279_py$11279_.coverage" NAME="11279_최대힙 Coverage Results" MODIFIED="1779533177711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/11279_최대힙" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$20006.coverage" NAME="20006 Coverage Results" MODIFIED="1773920132488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/20006_랭킹전대기열" />
+    <SUITE FILE_PATH="coverage/2110_py$2110_.coverage" NAME="2110_복습 Coverage Results" MODIFIED="1779021183929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Gold/2110_공유기설치" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$25757_.coverage" NAME="25757_복습 Coverage Results" MODIFIED="1778754940290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/25757_임스미니게임" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$crop_test.coverage" NAME="crop_test Coverage Results" MODIFIED="1775990761483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$13975.coverage" NAME="13975 Coverage Results" MODIFIED="1777987336158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Gold/13975_파일합치기3" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$2075.coverage" NAME="2075 Coverage Results" MODIFIED="1773313405975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/2075_N번째 큰수" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$4659.coverage" NAME="4659 Coverage Results" MODIFIED="1775567785464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/4659_비밀발음" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$6236.coverage" NAME="6236 Coverage Results" MODIFIED="1776082362925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/6236_용돈관리" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$2164.coverage" NAME="2164 Coverage Results" MODIFIED="1776334912748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/2164_카드2" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$1417.coverage" NAME="1417 Coverage Results" MODIFIED="1777374723828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1417_국회의원선거" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$1927.coverage" NAME="1927 Coverage Results" MODIFIED="1777120897532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1927_최소힙" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$2512.coverage" NAME="2512 Coverage Results" MODIFIED="1775818920086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/2512_예산" />
+    <SUITE FILE_PATH="coverage/11279_py$2512_.coverage" NAME="2512_복습 Coverage Results" MODIFIED="1779964866074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/2512_예산" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$11866.coverage" NAME="11866 Coverage Results" MODIFIED="1776337309704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/11866_요세푸스문제0" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$1138.coverage" NAME="1138 Coverage Results" MODIFIED="1773400363411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1138_한 줄로 서기" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$7662.coverage" NAME="7662 Coverage Results" MODIFIED="1777793452393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Gold/7662_이중우선순위큐" />
+    <SUITE FILE_PATH="coverage/11279_py$17266_.coverage" NAME="17266_복습 Coverage Results" MODIFIED="1779800196904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/17266_어두운굴다리" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$11279.coverage" NAME="11279 Coverage Results" MODIFIED="1777203467599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/11279_최대힙" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$5430_.coverage" NAME="5430_복습 Coverage Results" MODIFIED="1778843384377" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Gold/5430_AC" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$1654.coverage" NAME="1654 Coverage Results" MODIFIED="1775911968714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1654_랜선자르기" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$2346.coverage" NAME="2346 Coverage Results" MODIFIED="1777029582553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/2346" />
+    <SUITE FILE_PATH="coverage/11279_py$1931_.coverage" NAME="1931_복습 Coverage Results" MODIFIED="1779623366790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1931_회의실배정" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$10866.coverage" NAME="10866 Coverage Results" MODIFIED="1776774477523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/10866_덱" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$2110.coverage" NAME="2110 Coverage Results" MODIFIED="1776085056201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Gold/2110_공유기설치" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$1417_.coverage" NAME="1417_복습 Coverage Results" MODIFIED="1778676051461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1417_국회의원선거" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$1021_.coverage" NAME="1021_복습 Coverage Results" MODIFIED="1778066953001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1021_회전하는큐" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$11000_.coverage" NAME="11000_복습 Coverage Results" MODIFIED="1778756876882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Gold/11000_강의실배정" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$1021.coverage" NAME="1021 Coverage Results" MODIFIED="1776602596304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1021_회전하는큐" />
+    <SUITE FILE_PATH="coverage/9093_py$1406_.coverage" NAME="1406_복습 Coverage Results" MODIFIED="1779447182551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1406_에디터" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$1300.coverage" NAME="1300 Coverage Results" MODIFIED="1776254034431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Gold/1300_k번째수" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$11723.coverage" NAME="11723 Coverage Results" MODIFIED="1774868336965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/11723_집합" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$8979.coverage" NAME="8979 Coverage Results" MODIFIED="1775567779099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/8979_올림픽" />
+    <SUITE FILE_PATH="coverage/9093_py$5397_.coverage" NAME="5397_복습 Coverage Results" MODIFIED="1779448291378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/5397_키로커" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$1931.coverage" NAME="1931 Coverage Results" MODIFIED="1778153976212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1931_회의실배정" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$1260.coverage" NAME="1260 Coverage Results" MODIFIED="1773666190615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1260_DFS와BFS" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$1205.coverage" NAME="1205 Coverage Results" MODIFIED="1773489433892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1205_등수 구하기" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$9655.coverage" NAME="9655 Coverage Results" MODIFIED="1774958537001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/9655_돌게임" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$11000.coverage" NAME="11000 Coverage Results" MODIFIED="1777636293307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Gold/11000_강의실배정" />
+    <SUITE FILE_PATH="coverage/9093_py$9093_.coverage" NAME="9093_복습 Coverage Results" MODIFIED="1779102503234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Bronze/9093_단어 뒤집기" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$14940.coverage" NAME="14940 Coverage Results" MODIFIED="1774101217254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/14940_쉬운최단거리" />
+    <SUITE FILE_PATH="coverage/11279_py$1966_.coverage" NAME="1966_복습 Coverage Results" MODIFIED="1780140435528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1966_프린터큐" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$1244.coverage" NAME="1244 Coverage Results" MODIFIED="1775648777863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1244_스위치켜끄기" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$2805.coverage" NAME="2805 Coverage Results" MODIFIED="1775987807775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/2805_나무자르기" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$1158_.coverage" NAME="1158_복습 Coverage Results" MODIFIED="1778151138692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1158_요세푸스문제" />
+    <SUITE FILE_PATH="coverage/11279_py$2346_.coverage" NAME="2346_복습 Coverage Results" MODIFIED="1780140430393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/2346_풍선터뜨리기" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$1515.coverage" NAME="1515 Coverage Results" MODIFIED="1773832305143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1515_수이어쓰기" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$3190.coverage" NAME="3190 Coverage Results" MODIFIED="1776947418368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Gold/3190_뱀" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$7568.coverage" NAME="7568 Coverage Results" MODIFIED="1775481365942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/7568_덩치" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$1158.coverage" NAME="1158 Coverage Results" MODIFIED="1776514352485" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1158_요세푸스문제" />
+    <SUITE FILE_PATH="coverage/2075_py$1654_.coverage" NAME="1654_복습 Coverage Results" MODIFIED="1778919910986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1654_랜선자르기" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$25757.coverage" NAME="25757 Coverage Results" MODIFIED="1775644798681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/25757_임스미니게임" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$organize_to_excel.coverage" NAME="organize_to_excel Coverage Results" MODIFIED="1778398632199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$11286_.coverage" NAME="11286_복습 Coverage Results" MODIFIED="1778400279469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/11286_절댓값힙" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$10431.coverage" NAME="10431 Coverage Results" MODIFIED="1775136579413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/10431_줄세우기" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$17266.coverage" NAME="17266 Coverage Results" MODIFIED="1775740297165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/17266_어두운굴다리" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$11866_.coverage" NAME="11866_복습 Coverage Results" MODIFIED="1778245619956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/11866_요세푸스문제0" />
+    <SUITE FILE_PATH="coverage/Study_Coding_Test$1260_.coverage" NAME="1260_복습 Coverage Results" MODIFIED="1778597323099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Silver/1260_DFS와BFS" />
+    <SUITE FILE_PATH="coverage/11279_py$3079_.coverage" NAME="3079_복습 Coverage Results" MODIFIED="1779708157511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BOJ/Gold/3079_입국심사" />
+  </component>
+</project>
